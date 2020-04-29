@@ -1,5 +1,7 @@
 # spring-boot-restful-web-service
+
 A detailed Standalone RESTful web service example application with the use of Spring Boot framework
+
 Spring Boot RESTful Web Service Example
 =======================================
 The main purpose of this sample project is to demonstrate the capabilities of spring boot.
